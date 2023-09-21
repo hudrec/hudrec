@@ -1,7 +1,6 @@
 <img src="./banner.jpg"/>
 
-### 👋
-
+### Package.json 🤙
 ![](https://img.shields.io/badge/PYTHON-FFF?style=for-the-badge&logo=python)<br/>
 ![](https://img.shields.io/badge/DJANGO-FFF?style=for-the-badge&logo=django&logoColor=green)<br/>
 ![](https://img.shields.io/badge/DOCKER-FFF?style=for-the-badge&logo=docker)<br/>
