@@ -1,6 +1,6 @@
 <img src="./banner.jpg"/>
 
-### hudrec.json 👋
+### 👋
 
 ![](https://img.shields.io/badge/PYTHON-FFF?style=for-the-badge&logo=python)<br/>
 ![](https://img.shields.io/badge/DJANGO-FFF?style=for-the-badge&logo=django&logoColor=green)<br/>
